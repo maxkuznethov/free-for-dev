@@ -1605,7 +1605,13 @@ HTML Themes and UI Kits to create your applications faster!
 
 
 **[⬆ back to top](#table-of-contents)**
+<<<<<<< HEAD
 
 4
 5
 6
+=======
+1
+2
+3
+>>>>>>> branch1
